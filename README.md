@@ -10,8 +10,7 @@ This project is a simple implementation of a digit classifier using the [MNIST d
 
 ## 📁 Files
 
-- `MNIST_PyTorch.ipynb`: Main notebook with all code (training, evaluation, visualization).
-- `CNN.py`: Script version of the training pipeline.
+- `CNN-MNIST.ipynb`: Main notebook with all code (training, evaluation, visualization).
 - `requirements.txt`: Dependencies list.
 - `assets/`: Sample output images or saved model files.
   
